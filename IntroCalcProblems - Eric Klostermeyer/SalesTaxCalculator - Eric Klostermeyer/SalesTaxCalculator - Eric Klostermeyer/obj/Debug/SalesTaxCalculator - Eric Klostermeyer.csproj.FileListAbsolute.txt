@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\SalesTaxCalculator - Eric Klostermeyer\SalesTaxCalculator - Eric Klostermeyer\bin\Debug\SalesTaxCalculator - Eric Klostermeyer.exe.config
+c:\users\notadmin\documents\visual studio 2015\Projects\SalesTaxCalculator - Eric Klostermeyer\SalesTaxCalculator - Eric Klostermeyer\bin\Debug\SalesTaxCalculator - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\SalesTaxCalculator - Eric Klostermeyer\SalesTaxCalculator - Eric Klostermeyer\bin\Debug\SalesTaxCalculator - Eric Klostermeyer.pdb
+c:\users\notadmin\documents\visual studio 2015\Projects\SalesTaxCalculator - Eric Klostermeyer\SalesTaxCalculator - Eric Klostermeyer\obj\Debug\SalesTaxCalculator - Eric Klostermeyer.csprojResolveAssemblyReference.cache
+c:\users\notadmin\documents\visual studio 2015\Projects\SalesTaxCalculator - Eric Klostermeyer\SalesTaxCalculator - Eric Klostermeyer\obj\Debug\SalesTaxCalculator___Eric_Klostermeyer.Form1.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\SalesTaxCalculator - Eric Klostermeyer\SalesTaxCalculator - Eric Klostermeyer\obj\Debug\SalesTaxCalculator___Eric_Klostermeyer.Properties.Resources.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\SalesTaxCalculator - Eric Klostermeyer\SalesTaxCalculator - Eric Klostermeyer\obj\Debug\SalesTaxCalculator - Eric Klostermeyer.csproj.GenerateResource.Cache
+c:\users\notadmin\documents\visual studio 2015\Projects\SalesTaxCalculator - Eric Klostermeyer\SalesTaxCalculator - Eric Klostermeyer\obj\Debug\SalesTaxCalculator - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\SalesTaxCalculator - Eric Klostermeyer\SalesTaxCalculator - Eric Klostermeyer\obj\Debug\SalesTaxCalculator - Eric Klostermeyer.pdb

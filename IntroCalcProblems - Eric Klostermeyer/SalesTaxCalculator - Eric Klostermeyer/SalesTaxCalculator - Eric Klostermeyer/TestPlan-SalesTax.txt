@@ -1,0 +1,9 @@
+Test Plan for Sales Tax Calculator:
+1) Ensure the sales tax is correct. Update if necessary.
+2) Make sure the entry into the sales amount text box is vaild.
+3) The calculate button should accurately calculate the sales tax based on the amount typed in.
+4) The clear button should clear the sales amount text box, the added tax text box, and the total text box. 
+5) The current Lorain County sales tax should be display in the second box.
+6) The added tax button should display the correct amount in the third box.
+7) The total amount should display in the fourth box. 
+8) If the user enters an invalid character in the sales amount field, display a MessageBox telling the user they have entered an invald character.
