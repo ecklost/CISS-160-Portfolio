@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcWithAccums - Eric Klostermeyer\CalcWithAccums - Eric Klostermeyer\bin\Debug\CalcWithAccums - Eric Klostermeyer.exe.config
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcWithAccums - Eric Klostermeyer\CalcWithAccums - Eric Klostermeyer\bin\Debug\CalcWithAccums - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcWithAccums - Eric Klostermeyer\CalcWithAccums - Eric Klostermeyer\bin\Debug\CalcWithAccums - Eric Klostermeyer.pdb
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcWithAccums - Eric Klostermeyer\CalcWithAccums - Eric Klostermeyer\obj\Debug\CalcWithAccums - Eric Klostermeyer.csprojResolveAssemblyReference.cache
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcWithAccums - Eric Klostermeyer\CalcWithAccums - Eric Klostermeyer\obj\Debug\CalcWithAccums___Eric_Klostermeyer.Form1.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcWithAccums - Eric Klostermeyer\CalcWithAccums - Eric Klostermeyer\obj\Debug\CalcWithAccums___Eric_Klostermeyer.Properties.Resources.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcWithAccums - Eric Klostermeyer\CalcWithAccums - Eric Klostermeyer\obj\Debug\CalcWithAccums - Eric Klostermeyer.csproj.GenerateResource.Cache
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcWithAccums - Eric Klostermeyer\CalcWithAccums - Eric Klostermeyer\obj\Debug\CalcWithAccums - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcWithAccums - Eric Klostermeyer\CalcWithAccums - Eric Klostermeyer\obj\Debug\CalcWithAccums - Eric Klostermeyer.pdb

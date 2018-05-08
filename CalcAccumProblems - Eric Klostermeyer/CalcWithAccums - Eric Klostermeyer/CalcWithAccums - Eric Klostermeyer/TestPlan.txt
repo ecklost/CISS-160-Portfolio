@@ -1,0 +1,13 @@
+Test Plan:
+1) Make sure our constants are correct.
+2) Verify the text is correct for all labels.
+3) The parse in the entry fields should return a numeric value.
+4) Current order calculations are: cubic feet = length*width*height, cubic yards = cubic feet / CUBIC_YARD, order cost = cubic yards * PRICE_PER_CUBIC_YARD.
+5) The above order calculations should be added to the running total. Increment the order numbers by one.
+6) The mulch ordered text box should equal the amount in the total cubic yards label.
+7) The remaining load calculation should be: TRUCK_BASE_CAPACITY - totalCubicYards.
+8) If TRUCK_BASE_CAPACITY is less than the total number of cubic yards, the remaining load text box should turn red.
+9) The clear button should just clear the current three entry fields.
+10) The clear all should reset everything to how it was when the program started.
+11) The exit button should exit the program.
+12) There should be a fake logo of the "(Your Name) Landscaping Co." in the upper right. It should be non-interactable.

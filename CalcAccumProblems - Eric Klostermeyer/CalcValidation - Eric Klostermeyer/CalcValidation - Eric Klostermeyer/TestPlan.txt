@@ -1,0 +1,7 @@
+Test Plan:
+1) Verify that all fields take only valid numbers.
+2) Ensure the outputs are correct.
+3) If the ending odometer reading is less than the beginning, swap the two values around.
+4) If any entry box is empty, or equal to and less than zero, put in a default value.
+5) The try-catch block isn't explicitly needed since we just use a default if the entry box has something we do not like. I included it in the case of an unknown error that may pop up.
+6) Make sure that all calculations are correct for determining distance traveled (ending odometer - beginning odometer), miles per gallon (miles traveled / gallons), and cost of the fill-up (gallons filled * price per gallon).

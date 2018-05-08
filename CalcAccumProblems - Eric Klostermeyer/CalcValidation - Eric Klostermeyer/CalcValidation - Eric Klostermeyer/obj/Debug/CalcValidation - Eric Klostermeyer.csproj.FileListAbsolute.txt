@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcValidation - Eric Klostermeyer\CalcValidation - Eric Klostermeyer\bin\Debug\CalcValidation - Eric Klostermeyer.exe.config
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcValidation - Eric Klostermeyer\CalcValidation - Eric Klostermeyer\bin\Debug\CalcValidation - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcValidation - Eric Klostermeyer\CalcValidation - Eric Klostermeyer\bin\Debug\CalcValidation - Eric Klostermeyer.pdb
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcValidation - Eric Klostermeyer\CalcValidation - Eric Klostermeyer\obj\Debug\CalcValidation - Eric Klostermeyer.csprojResolveAssemblyReference.cache
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcValidation - Eric Klostermeyer\CalcValidation - Eric Klostermeyer\obj\Debug\CalcValidation___Eric_Klostermeyer.Form1.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcValidation - Eric Klostermeyer\CalcValidation - Eric Klostermeyer\obj\Debug\CalcValidation___Eric_Klostermeyer.Properties.Resources.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcValidation - Eric Klostermeyer\CalcValidation - Eric Klostermeyer\obj\Debug\CalcValidation - Eric Klostermeyer.csproj.GenerateResource.Cache
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcValidation - Eric Klostermeyer\CalcValidation - Eric Klostermeyer\obj\Debug\CalcValidation - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\CalcValidation - Eric Klostermeyer\CalcValidation - Eric Klostermeyer\obj\Debug\CalcValidation - Eric Klostermeyer.pdb
