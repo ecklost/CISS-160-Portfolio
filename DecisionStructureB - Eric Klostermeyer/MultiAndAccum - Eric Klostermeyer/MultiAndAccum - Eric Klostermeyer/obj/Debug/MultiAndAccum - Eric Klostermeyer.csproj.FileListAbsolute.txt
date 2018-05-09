@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\MultiAndAccum - Eric Klostermeyer\MultiAndAccum - Eric Klostermeyer\bin\Debug\MultiAndAccum - Eric Klostermeyer.exe.config
+c:\users\notadmin\documents\visual studio 2015\Projects\MultiAndAccum - Eric Klostermeyer\MultiAndAccum - Eric Klostermeyer\bin\Debug\MultiAndAccum - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\MultiAndAccum - Eric Klostermeyer\MultiAndAccum - Eric Klostermeyer\bin\Debug\MultiAndAccum - Eric Klostermeyer.pdb
+c:\users\notadmin\documents\visual studio 2015\Projects\MultiAndAccum - Eric Klostermeyer\MultiAndAccum - Eric Klostermeyer\obj\Debug\MultiAndAccum - Eric Klostermeyer.csprojResolveAssemblyReference.cache
+c:\users\notadmin\documents\visual studio 2015\Projects\MultiAndAccum - Eric Klostermeyer\MultiAndAccum - Eric Klostermeyer\obj\Debug\MultiAndAccum___Eric_Klostermeyer.CH1to4Summary.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\MultiAndAccum - Eric Klostermeyer\MultiAndAccum - Eric Klostermeyer\obj\Debug\MultiAndAccum___Eric_Klostermeyer.Properties.Resources.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\MultiAndAccum - Eric Klostermeyer\MultiAndAccum - Eric Klostermeyer\obj\Debug\MultiAndAccum - Eric Klostermeyer.csproj.GenerateResource.Cache
+c:\users\notadmin\documents\visual studio 2015\Projects\MultiAndAccum - Eric Klostermeyer\MultiAndAccum - Eric Klostermeyer\obj\Debug\MultiAndAccum - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\MultiAndAccum - Eric Klostermeyer\MultiAndAccum - Eric Klostermeyer\obj\Debug\MultiAndAccum - Eric Klostermeyer.pdb

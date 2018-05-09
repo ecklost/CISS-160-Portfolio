@@ -1,0 +1,12 @@
+Test Plan for Shipping Calculator:
+1) Ensure the values for the price per pound, zone cost, and capped price are correct.
+2) Only allow valid entries for the weight (numbers greater than zero) and the zone code (A, B, or C).
+3) Calculate should attempt to calculate the correct value.
+4) The formula for total shipping cost should be: weight * PRICE_PER_POUND + zoneCost;
+5) The output labels should display the correct values.
+6) If the total shipping cost is over $100.00, change the value to $100.00 and display the CAPPED label.
+7) Hide the CAPPED label if the total cost is not over $100.00.
+8) Display a proper error message if the weight is not over 0 or if illegal characters are entered.
+9) Display an error message if the user inputs a letter code that isn't A, B, or C.
+10) The cost labels should be reset each time calculate is clicked regardless of the outcome.
+11) In the event of an invalid entry, reset all labels.

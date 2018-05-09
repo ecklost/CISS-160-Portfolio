@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\UIControlsAndMultiLine - Eric Klost\UIControlsAndMultiLine - Eric Klost\bin\Debug\UIControlsAndMultiLine - Eric Klost.exe.config
+c:\users\notadmin\documents\visual studio 2015\Projects\UIControlsAndMultiLine - Eric Klost\UIControlsAndMultiLine - Eric Klost\bin\Debug\UIControlsAndMultiLine - Eric Klost.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\UIControlsAndMultiLine - Eric Klost\UIControlsAndMultiLine - Eric Klost\bin\Debug\UIControlsAndMultiLine - Eric Klost.pdb
+c:\users\notadmin\documents\visual studio 2015\Projects\UIControlsAndMultiLine - Eric Klost\UIControlsAndMultiLine - Eric Klost\obj\Debug\UIControlsAndMultiLine - Eric Klost.csprojResolveAssemblyReference.cache
+c:\users\notadmin\documents\visual studio 2015\Projects\UIControlsAndMultiLine - Eric Klost\UIControlsAndMultiLine - Eric Klost\obj\Debug\UIControlsAndMultiLine___Eric_Klost.Form1.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\UIControlsAndMultiLine - Eric Klost\UIControlsAndMultiLine - Eric Klost\obj\Debug\UIControlsAndMultiLine___Eric_Klost.Properties.Resources.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\UIControlsAndMultiLine - Eric Klost\UIControlsAndMultiLine - Eric Klost\obj\Debug\UIControlsAndMultiLine - Eric Klost.csproj.GenerateResource.Cache
+c:\users\notadmin\documents\visual studio 2015\Projects\UIControlsAndMultiLine - Eric Klost\UIControlsAndMultiLine - Eric Klost\obj\Debug\UIControlsAndMultiLine - Eric Klost.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\UIControlsAndMultiLine - Eric Klost\UIControlsAndMultiLine - Eric Klost\obj\Debug\UIControlsAndMultiLine - Eric Klost.pdb

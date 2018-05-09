@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\MathLibCircleInfo - Eric Klostermeyer\MathLibCircleInfo - Eric Klostermeyer\bin\Debug\MathLibCircleInfo - Eric Klostermeyer.exe.config
+c:\users\notadmin\documents\visual studio 2015\Projects\MathLibCircleInfo - Eric Klostermeyer\MathLibCircleInfo - Eric Klostermeyer\bin\Debug\MathLibCircleInfo - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\MathLibCircleInfo - Eric Klostermeyer\MathLibCircleInfo - Eric Klostermeyer\bin\Debug\MathLibCircleInfo - Eric Klostermeyer.pdb
+c:\users\notadmin\documents\visual studio 2015\Projects\MathLibCircleInfo - Eric Klostermeyer\MathLibCircleInfo - Eric Klostermeyer\obj\Debug\MathLibCircleInfo - Eric Klostermeyer.csprojResolveAssemblyReference.cache
+c:\users\notadmin\documents\visual studio 2015\Projects\MathLibCircleInfo - Eric Klostermeyer\MathLibCircleInfo - Eric Klostermeyer\obj\Debug\MathLibCircleInfo___Eric_Klostermeyer.Form1.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\MathLibCircleInfo - Eric Klostermeyer\MathLibCircleInfo - Eric Klostermeyer\obj\Debug\MathLibCircleInfo___Eric_Klostermeyer.Properties.Resources.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\MathLibCircleInfo - Eric Klostermeyer\MathLibCircleInfo - Eric Klostermeyer\obj\Debug\MathLibCircleInfo - Eric Klostermeyer.csproj.GenerateResource.Cache
+c:\users\notadmin\documents\visual studio 2015\Projects\MathLibCircleInfo - Eric Klostermeyer\MathLibCircleInfo - Eric Klostermeyer\obj\Debug\MathLibCircleInfo - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\MathLibCircleInfo - Eric Klostermeyer\MathLibCircleInfo - Eric Klostermeyer\obj\Debug\MathLibCircleInfo - Eric Klostermeyer.pdb

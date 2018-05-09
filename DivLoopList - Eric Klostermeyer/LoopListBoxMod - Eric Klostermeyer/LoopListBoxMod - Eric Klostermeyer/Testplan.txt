@@ -1,0 +1,12 @@
+Test Plan for Loop List Box Mod Program:
+1) Test entered years for validity (should only be numeric characters)
+2) If the start year is more recent than the end year, swap the values.
+3) Invalid entries display a result to the user.
+4) Prior to listing items, remove previous items from the list.
+5) Make sure we go through each year (including the start and end years)
+6) Clicking on the 'Loop Thru The Years' button should actually run the program.
+7) Clicking on the 'Clear All' button should reset everything.
+8) If the current iteration of the year is divisible by 4 and the election checkbox is checked, concatenate ", is an Election Year" to a string.
+9) If the current iteration of the year is divisible by 10 and the election checkbox is checked, concatenate ", is a Census Year" to a string.
+10) All iterations through the for loop should start with "Year: " and then the current year.
+11) Both checkboxes should have their respective functionalities.

@@ -1,0 +1,9 @@
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\ShippingCalculator\ShippingCalculator\bin\Debug\ShippingCalculator.exe.config
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\ShippingCalculator\ShippingCalculator\obj\Debug\ShippingCalculator.exe
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\ShippingCalculator\ShippingCalculator\obj\Debug\ShippingCalculator.pdb
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\ShippingCalculator\ShippingCalculator\bin\Debug\ShippingCalculator.exe
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\ShippingCalculator\ShippingCalculator\bin\Debug\ShippingCalculator.pdb
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\ShippingCalculator\ShippingCalculator\obj\Debug\ShippingCalculator - Eric Klostermeyer.csprojResolveAssemblyReference.cache
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\ShippingCalculator\ShippingCalculator\obj\Debug\ShippingCalculator.Form1.resources
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\ShippingCalculator\ShippingCalculator\obj\Debug\ShippingCalculator.Properties.Resources.resources
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\ShippingCalculator\ShippingCalculator\obj\Debug\ShippingCalculator - Eric Klostermeyer.csproj.GenerateResource.Cache

@@ -1,0 +1,43 @@
+Test Plan for File Writer:
+1) Make sure the file writes to bin/Debug/ as .txt file.
+2) If any field is empty, display an error message.
+3) Save to file should attempt to save to the above pathway (see 1)
+4) There should be no commas in the output file.
+5) The output should be set up as Year,Make,Model,StatedMPG,PurchasePrice,1YearInsurance,1YearRepairs,1YearFuel,5YearTotalCost 
+6) The output file should be able to go into a .csv file and output in Excel.
+
+Test Plan for the Car Cost Comparison:
+1) For now, the year manufactored, make, and model text fields should not interact with anything.
+2) For the MPG, Initial Price, Annual Repair Cost, and Annual Insurance Cost text fields, ensure these values are a valid value and do not contain illegal characters.
+3) The totals should not be interactable beyond just display the results.
+4) The calculate button should accurately calculate the bottom set of fields.
+5) The clear button should clear all the editable fields. Clear the car classes.
+6) The exit button should exit the program.
+7) Make sure the two cars created from the Car class are able to be editted. 
+8) The yearly gas total calculation should be correct. This is done by taking the average miles driven in a year, divided it by the MPG of the car, then multiple the result by the average cost of gas. Do this for both cars.
+9) If an entry is not valid for the MPG, throw the user an error.
+10) For each car, if the middle three fields are not filled in, either fill in the entry with defaults if nothing is inputted (and throw a messagebox at a user), or allow the entry to be zero (for the initial price only).
+11) The car that costs the most over five years should have its field highlighted red.
+12) Here is the info for the two vehichles I have owned/currently owned.
+
+Car One:
+1999 Ford Taurus SE
+Combined MPG: 20
+---
+Initial Cost: $5000 (bought used)
+Annual Repair Cost: $500
+Annual Insurance Cost: $1200
+---
+Results from Calculator:
+
+
+Car Two:
+Mazda 3 sGT
+Combined MPG: 33
+---
+Initial cost: $25000 (bought new)
+Annual Repair Cost:  $500
+Annual Insurance Cost: $1404
+---
+Results from Calculator:
+

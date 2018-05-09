@@ -1,0 +1,9 @@
+Test Plan for Looping Lottery Numbers:
+1) Validate the three entries. They should only contain single-digits numbers. Numbers over 9, less than 0, or contain non-numeric characters throw the user an error.
+2) The 'I'm Feeling Lucky' should generate three numbers 1000 times to see if any of the generated numbers match the entered numbers.
+3) The 'Clear All' button should clear all fields and reset the program.
+4) The generated numbers should be listed when the program is ran.
+5) If the numbers any generated numbers are correct, change the background of the box to green.
+6) Each generated number should be listed in the listbox.
+7) If the program runs 1000 times without finding the result, display a message to the user.
+8) The number of attempts the program ran should be listed in the attemps text box.

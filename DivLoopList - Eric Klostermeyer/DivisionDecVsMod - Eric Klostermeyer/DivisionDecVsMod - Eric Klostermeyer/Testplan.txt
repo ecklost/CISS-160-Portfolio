@@ -1,0 +1,7 @@
+Test Plan for Division Dec Vs Mod Program:
+1) Validate that entries are only numeric values. Throw an error if they are not.
+2) If the divisor is zero, throw the user a message that their divisor cannot be zero.
+3) When first processing the results for remainder and quotient, the results needs to be in integers.
+4) Afterwards, the final test should be complete decimal division and display the result up to four decimal places.
+5) The calculate button should process the entries and the math.
+6) The clear all should reset everything.

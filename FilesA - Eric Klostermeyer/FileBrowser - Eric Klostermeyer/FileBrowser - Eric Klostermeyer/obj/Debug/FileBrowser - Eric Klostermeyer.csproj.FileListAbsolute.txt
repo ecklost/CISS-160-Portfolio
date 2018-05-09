@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\FileBrowser - Eric Klostermeyer\FileBrowser - Eric Klostermeyer\bin\Debug\FileBrowser - Eric Klostermeyer.exe.config
+c:\users\notadmin\documents\visual studio 2015\Projects\FileBrowser - Eric Klostermeyer\FileBrowser - Eric Klostermeyer\bin\Debug\FileBrowser - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\FileBrowser - Eric Klostermeyer\FileBrowser - Eric Klostermeyer\bin\Debug\FileBrowser - Eric Klostermeyer.pdb
+c:\users\notadmin\documents\visual studio 2015\Projects\FileBrowser - Eric Klostermeyer\FileBrowser - Eric Klostermeyer\obj\Debug\FileBrowser - Eric Klostermeyer.csprojResolveAssemblyReference.cache
+c:\users\notadmin\documents\visual studio 2015\Projects\FileBrowser - Eric Klostermeyer\FileBrowser - Eric Klostermeyer\obj\Debug\FileBrowser___Eric_Klostermeyer.Form1.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\FileBrowser - Eric Klostermeyer\FileBrowser - Eric Klostermeyer\obj\Debug\FileBrowser___Eric_Klostermeyer.Properties.Resources.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\FileBrowser - Eric Klostermeyer\FileBrowser - Eric Klostermeyer\obj\Debug\FileBrowser - Eric Klostermeyer.csproj.GenerateResource.Cache
+c:\users\notadmin\documents\visual studio 2015\Projects\FileBrowser - Eric Klostermeyer\FileBrowser - Eric Klostermeyer\obj\Debug\FileBrowser - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\FileBrowser - Eric Klostermeyer\FileBrowser - Eric Klostermeyer\obj\Debug\FileBrowser - Eric Klostermeyer.pdb

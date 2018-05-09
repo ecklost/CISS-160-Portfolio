@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\LoopListBoxMod - Eric Klostermeyer\LoopListBoxMod - Eric Klostermeyer\bin\Debug\LoopListBoxMod - Eric Klostermeyer.exe.config
+c:\users\notadmin\documents\visual studio 2015\Projects\LoopListBoxMod - Eric Klostermeyer\LoopListBoxMod - Eric Klostermeyer\bin\Debug\LoopListBoxMod - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\LoopListBoxMod - Eric Klostermeyer\LoopListBoxMod - Eric Klostermeyer\bin\Debug\LoopListBoxMod - Eric Klostermeyer.pdb
+c:\users\notadmin\documents\visual studio 2015\Projects\LoopListBoxMod - Eric Klostermeyer\LoopListBoxMod - Eric Klostermeyer\obj\Debug\LoopListBoxMod - Eric Klostermeyer.csprojResolveAssemblyReference.cache
+c:\users\notadmin\documents\visual studio 2015\Projects\LoopListBoxMod - Eric Klostermeyer\LoopListBoxMod - Eric Klostermeyer\obj\Debug\LoopListBoxMod___Eric_Klostermeyer.Form1.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\LoopListBoxMod - Eric Klostermeyer\LoopListBoxMod - Eric Klostermeyer\obj\Debug\LoopListBoxMod___Eric_Klostermeyer.Properties.Resources.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\LoopListBoxMod - Eric Klostermeyer\LoopListBoxMod - Eric Klostermeyer\obj\Debug\LoopListBoxMod - Eric Klostermeyer.csproj.GenerateResource.Cache
+c:\users\notadmin\documents\visual studio 2015\Projects\LoopListBoxMod - Eric Klostermeyer\LoopListBoxMod - Eric Klostermeyer\obj\Debug\LoopListBoxMod - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\LoopListBoxMod - Eric Klostermeyer\LoopListBoxMod - Eric Klostermeyer\obj\Debug\LoopListBoxMod - Eric Klostermeyer.pdb
