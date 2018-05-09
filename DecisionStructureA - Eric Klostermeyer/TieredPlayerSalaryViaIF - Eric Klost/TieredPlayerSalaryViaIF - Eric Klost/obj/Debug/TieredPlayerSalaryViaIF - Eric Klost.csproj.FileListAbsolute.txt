@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\TieredPlayerSalaryViaIF - Eric Klost\TieredPlayerSalaryViaIF - Eric Klost\bin\Debug\TieredPlayerSalaryViaIF - Eric Klost.exe.config
+C:\Users\notadmin\documents\visual studio 2015\Projects\TieredPlayerSalaryViaIF - Eric Klost\TieredPlayerSalaryViaIF - Eric Klost\bin\Debug\TieredPlayerSalaryViaIF - Eric Klost.exe
+C:\Users\notadmin\documents\visual studio 2015\Projects\TieredPlayerSalaryViaIF - Eric Klost\TieredPlayerSalaryViaIF - Eric Klost\bin\Debug\TieredPlayerSalaryViaIF - Eric Klost.pdb
+C:\Users\notadmin\documents\visual studio 2015\Projects\TieredPlayerSalaryViaIF - Eric Klost\TieredPlayerSalaryViaIF - Eric Klost\obj\Debug\TieredPlayerSalaryViaIF - Eric Klost.csprojResolveAssemblyReference.cache
+C:\Users\notadmin\documents\visual studio 2015\Projects\TieredPlayerSalaryViaIF - Eric Klost\TieredPlayerSalaryViaIF - Eric Klost\obj\Debug\TieredPlayerSalaryViaIF___Eric_Klost.Form1.resources
+C:\Users\notadmin\documents\visual studio 2015\Projects\TieredPlayerSalaryViaIF - Eric Klost\TieredPlayerSalaryViaIF - Eric Klost\obj\Debug\TieredPlayerSalaryViaIF___Eric_Klost.Properties.Resources.resources
+C:\Users\notadmin\documents\visual studio 2015\Projects\TieredPlayerSalaryViaIF - Eric Klost\TieredPlayerSalaryViaIF - Eric Klost\obj\Debug\TieredPlayerSalaryViaIF - Eric Klost.csproj.GenerateResource.Cache
+C:\Users\notadmin\documents\visual studio 2015\Projects\TieredPlayerSalaryViaIF - Eric Klost\TieredPlayerSalaryViaIF - Eric Klost\obj\Debug\TieredPlayerSalaryViaIF - Eric Klost.exe
+C:\Users\notadmin\documents\visual studio 2015\Projects\TieredPlayerSalaryViaIF - Eric Klost\TieredPlayerSalaryViaIF - Eric Klost\obj\Debug\TieredPlayerSalaryViaIF - Eric Klost.pdb

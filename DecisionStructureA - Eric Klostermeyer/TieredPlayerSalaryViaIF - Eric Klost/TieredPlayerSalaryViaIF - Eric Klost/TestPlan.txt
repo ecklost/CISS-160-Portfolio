@@ -1,0 +1,10 @@
+TestPlan for TieredPlayerSalaryViaIF
+1) Accept any non-spaced characters for name.
+2) Hits must be an integer with no characters besides numbers.
+3) The acceptable hit range is from 1-300.
+4) Make sure the player is in the correct tier of pay depending on hits. The correct tier should be outputted.
+5) First, check if both boxes are checked for bonuses. Then, see if one or the other is checked. Apply correct bonuses are necessary.
+6) Ensure the output is correct and matches the name, salary, tier, and number of hits. Salary should be outputted to a currency value.
+7) If the number of hits in the current run is more than the number of hits the leader has (default = 0) then, update the leader group box as well.
+8) The Calculate button should calculate the correct salary.
+9) The Clear button should clear all entries.

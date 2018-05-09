@@ -1,0 +1,8 @@
+TestPlan for MathLabCircleInfo
+1) Accept only numbers and decimal numbers.
+2) If the entry field is not correct, inform user.
+3) Formula: diameter = radius * 2;
+4) Formula: circumference = diameter * PI    OR    2 * PI * radius;
+5) Formula: area = PI * radius^2;
+6) Make sure the output is correct and to two decimal places.
+7) The calculate button should attempt to calculate the value in the radius text box.
