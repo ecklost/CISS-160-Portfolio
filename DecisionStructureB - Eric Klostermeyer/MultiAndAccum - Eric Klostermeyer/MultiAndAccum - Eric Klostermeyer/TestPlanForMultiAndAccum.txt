@@ -1,0 +1,10 @@
+Test Plan for Multiplication and Accumulation Summary
+1) This project should look and perform identically to the included .exe in the zip file provided to us.
+2) Only allow numeric entries into the two number fields.
+3) Make sure the correct result is in the first unshaded bordered label.
+4) The calculate button should perform the following formula: 1st Number * 2nd Number = Result
+5) The clear all button should clear the running total and all labels. Reset the background to pale turquoise.
+6) If the running total is equal to or less than zero, turn the background of the label to yellow. Otherwise, green.
+7) A message box should appear if non-numeric entries are entered.
+8) The value of result should be added to the running total.
+9) Negative entries are allowed.
