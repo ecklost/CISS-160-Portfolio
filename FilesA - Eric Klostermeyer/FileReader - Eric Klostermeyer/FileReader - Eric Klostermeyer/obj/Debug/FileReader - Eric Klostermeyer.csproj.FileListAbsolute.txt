@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\FileReader - Eric Klostermeyer\FileReader - Eric Klostermeyer\bin\Debug\FileReader - Eric Klostermeyer.exe.config
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\FileReader - Eric Klostermeyer\FileReader - Eric Klostermeyer\bin\Debug\FileReader - Eric Klostermeyer.exe
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\FileReader - Eric Klostermeyer\FileReader - Eric Klostermeyer\bin\Debug\FileReader - Eric Klostermeyer.pdb
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\FileReader - Eric Klostermeyer\FileReader - Eric Klostermeyer\obj\Debug\FileReader - Eric Klostermeyer.csprojResolveAssemblyReference.cache
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\FileReader - Eric Klostermeyer\FileReader - Eric Klostermeyer\obj\Debug\FileReader___Eric_Klostermeyer.Form1.resources
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\FileReader - Eric Klostermeyer\FileReader - Eric Klostermeyer\obj\Debug\FileReader___Eric_Klostermeyer.Properties.Resources.resources
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\FileReader - Eric Klostermeyer\FileReader - Eric Klostermeyer\obj\Debug\FileReader - Eric Klostermeyer.csproj.GenerateResource.Cache
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\FileReader - Eric Klostermeyer\FileReader - Eric Klostermeyer\obj\Debug\FileReader - Eric Klostermeyer.exe
+C:\Users\notadmin\Documents\Visual Studio 2015\Projects\FileReader - Eric Klostermeyer\FileReader - Eric Klostermeyer\obj\Debug\FileReader - Eric Klostermeyer.pdb

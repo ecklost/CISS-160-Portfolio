@@ -1,0 +1,9 @@
+Test Plan for File Browser:
+1) Continuing from the File Reader program, the button to browse for a file should be added near to the text box.
+2) This time around, the user will need to provide the full path.
+3) The browse button should search for any valid .txt file in an open dialog box.
+4) Clicking cancel while there will set the text box to nothing.
+5) Choosing a file gets the full path and puts it into the text box.
+6) Much like the File Reader, the program will read the file and output the text to the output box.
+7) If a file is not found, output an error to the user.
+8) Clear all items in the listbox before adding anything to it.

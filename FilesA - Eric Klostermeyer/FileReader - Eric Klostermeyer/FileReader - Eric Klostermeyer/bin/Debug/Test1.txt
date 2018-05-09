@@ -1,0 +1,4 @@
+For this part of the project,
+we are testing reading lines from a
+StreamWriter in C#. If you see
+this then the test has been successful!

@@ -1,0 +1,8 @@
+Test Plan for File Reader:
+1) The user need only be able to type the file name (Test1.txt, etc.) and not the path.
+2) Read the file button should attempt to read a file.
+3) If a file is not found under the name, throw the user an error.
+4) Clear all items in the list box before adding anything.
+5) If a file is found, read until the end of the file. For each line found, output to the listbox.
+6) Close the file after it is finished reading.
+7) Any file that wants to be read MUST be in the /bin/Debug/ folder.

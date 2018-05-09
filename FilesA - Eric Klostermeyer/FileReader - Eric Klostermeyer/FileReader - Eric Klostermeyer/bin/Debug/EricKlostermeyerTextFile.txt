@@ -1,0 +1,5 @@
+Hello! If you're reading this,
+then you are either using the FileReader program I made
+or just viewing it from a text editor.
+Either way, let me know if there's anything
+I need to add or change to this program. Thanks!
