@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\ArrayOfStudents - Eric Klostermeyer\ArrayOfStudents - Eric Klostermeyer\bin\Debug\ArrayOfStudents - Eric Klostermeyer.exe.config
+C:\Users\notadmin\documents\visual studio 2015\Projects\ArrayOfStudents - Eric Klostermeyer\ArrayOfStudents - Eric Klostermeyer\bin\Debug\ArrayOfStudents - Eric Klostermeyer.exe
+C:\Users\notadmin\documents\visual studio 2015\Projects\ArrayOfStudents - Eric Klostermeyer\ArrayOfStudents - Eric Klostermeyer\bin\Debug\ArrayOfStudents - Eric Klostermeyer.pdb
+C:\Users\notadmin\documents\visual studio 2015\Projects\ArrayOfStudents - Eric Klostermeyer\ArrayOfStudents - Eric Klostermeyer\obj\Debug\ArrayOfStudents - Eric Klostermeyer.csprojResolveAssemblyReference.cache
+C:\Users\notadmin\documents\visual studio 2015\Projects\ArrayOfStudents - Eric Klostermeyer\ArrayOfStudents - Eric Klostermeyer\obj\Debug\ArrayOfStudents___Eric_Klostermeyer.Form1.resources
+C:\Users\notadmin\documents\visual studio 2015\Projects\ArrayOfStudents - Eric Klostermeyer\ArrayOfStudents - Eric Klostermeyer\obj\Debug\ArrayOfStudents___Eric_Klostermeyer.Properties.Resources.resources
+C:\Users\notadmin\documents\visual studio 2015\Projects\ArrayOfStudents - Eric Klostermeyer\ArrayOfStudents - Eric Klostermeyer\obj\Debug\ArrayOfStudents - Eric Klostermeyer.csproj.GenerateResource.Cache
+C:\Users\notadmin\documents\visual studio 2015\Projects\ArrayOfStudents - Eric Klostermeyer\ArrayOfStudents - Eric Klostermeyer\obj\Debug\ArrayOfStudents - Eric Klostermeyer.exe
+C:\Users\notadmin\documents\visual studio 2015\Projects\ArrayOfStudents - Eric Klostermeyer\ArrayOfStudents - Eric Klostermeyer\obj\Debug\ArrayOfStudents - Eric Klostermeyer.pdb

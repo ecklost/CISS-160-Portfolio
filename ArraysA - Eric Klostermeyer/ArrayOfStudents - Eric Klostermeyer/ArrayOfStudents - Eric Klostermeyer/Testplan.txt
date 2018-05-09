@@ -1,0 +1,13 @@
+Test Plan for Array of Students Program:
+1) Ensure each entry is added to the array.
+2) Only numbers are allowed for a numeric value. Throw an error if an entry is non-numeric.
+3) Give a user a pop-up if the student is added successfully or not.
+4) Clear out the text boxes when an entry is added successfully.
+5) If more than five entries are to be added, throw the user an error.
+6) If the grade is not between 0 and 100, tell the user that the number is invalid.
+7) Clicking the add button should attempt to add the name and grade to the arrays.
+8) Clicking on view student names and grades should display the entries in the arrays.
+9) Below the students listing in the list box, display the number of students added and the average grade of them.
+10) Clicking on the clear all button should clear everything out and reset everything back to its initial state.
+11) The formula for the average is: (student 1 grade + student 2 grade + student 3 grade + student 4 grade + student 5 grade) / 5. This formula will adjust according to the number of students in the arrays currently.
+12) If no values are entered yet, the average grade should be listed as 0 (in order to avoid a divide by zero error).
