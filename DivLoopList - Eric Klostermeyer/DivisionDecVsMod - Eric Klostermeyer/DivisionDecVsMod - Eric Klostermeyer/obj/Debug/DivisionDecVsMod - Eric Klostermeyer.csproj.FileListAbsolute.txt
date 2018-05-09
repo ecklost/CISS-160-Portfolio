@@ -1,0 +1,9 @@
+c:\users\notadmin\documents\visual studio 2015\Projects\DivisionDecVsMod - Eric Klostermeyer\DivisionDecVsMod - Eric Klostermeyer\bin\Debug\DivisionDecVsMod - Eric Klostermeyer.exe.config
+c:\users\notadmin\documents\visual studio 2015\Projects\DivisionDecVsMod - Eric Klostermeyer\DivisionDecVsMod - Eric Klostermeyer\bin\Debug\DivisionDecVsMod - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\DivisionDecVsMod - Eric Klostermeyer\DivisionDecVsMod - Eric Klostermeyer\bin\Debug\DivisionDecVsMod - Eric Klostermeyer.pdb
+c:\users\notadmin\documents\visual studio 2015\Projects\DivisionDecVsMod - Eric Klostermeyer\DivisionDecVsMod - Eric Klostermeyer\obj\Debug\DivisionDecVsMod - Eric Klostermeyer.csprojResolveAssemblyReference.cache
+c:\users\notadmin\documents\visual studio 2015\Projects\DivisionDecVsMod - Eric Klostermeyer\DivisionDecVsMod - Eric Klostermeyer\obj\Debug\DivisionDecVsMod___Eric_Klostermeyer.Form1.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\DivisionDecVsMod - Eric Klostermeyer\DivisionDecVsMod - Eric Klostermeyer\obj\Debug\DivisionDecVsMod___Eric_Klostermeyer.Properties.Resources.resources
+c:\users\notadmin\documents\visual studio 2015\Projects\DivisionDecVsMod - Eric Klostermeyer\DivisionDecVsMod - Eric Klostermeyer\obj\Debug\DivisionDecVsMod - Eric Klostermeyer.csproj.GenerateResource.Cache
+c:\users\notadmin\documents\visual studio 2015\Projects\DivisionDecVsMod - Eric Klostermeyer\DivisionDecVsMod - Eric Klostermeyer\obj\Debug\DivisionDecVsMod - Eric Klostermeyer.exe
+c:\users\notadmin\documents\visual studio 2015\Projects\DivisionDecVsMod - Eric Klostermeyer\DivisionDecVsMod - Eric Klostermeyer\obj\Debug\DivisionDecVsMod - Eric Klostermeyer.pdb
