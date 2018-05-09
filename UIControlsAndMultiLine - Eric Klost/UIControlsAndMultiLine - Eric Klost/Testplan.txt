@@ -1,0 +1,10 @@
+Test Plan for UI Controls and Multi-Line Program:
+1) Validate that at least one car is chosen. If not, display an error message.
+2) Ensure the values are reset for each calculation.
+3) Test all permutations of the optional add-ons to ensure they show the result.
+4) The formula for the cost of a car is:
+Car Cost = Car Chosen + OptionalAddonOneCost.IfSelected + 	   				   OptionalAddonTwoCost.IfSelected + OptionalAddonThreeCost.IfSelected
+5) If no optional addons are chosen, display "Options: NONE".
+6) The Calculate Button should perform the above formula and display the result.
+7) The Clear Button should clear all radio buttons, checkboxes, and labels.
+8) The result should show display the addons that were chosen based on if they are checked or not. The newline character '\n' should be used. Concatenate as needed.
